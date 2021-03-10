@@ -12,7 +12,7 @@ rofi/
 libfm/
 libvirt/
 matplotlib/
-eapps.list
+mimeapps.list
 pavucontrol.ini
 nvim/
 pcmanfm/
