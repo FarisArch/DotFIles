@@ -341,7 +341,7 @@ format-charging-underline = #0a6cf5
 format-discharging =  <label-discharging>
 format-discharging-underline = ${self.format-charging-underline}
 
-format-full-prefix = ""
+format-full-prefix = " "
 format-full-prefix-foreground = ${colors.foreground-alt}
 format-full-underline = ${self.format-charging-underline}
 
